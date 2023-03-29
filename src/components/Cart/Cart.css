@@ -3,6 +3,8 @@
     padding: 25px;
     position: sticky;
     top: 0;
+    color: black;
+    height: 700px;
 }
 
 .cart p{

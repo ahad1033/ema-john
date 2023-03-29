@@ -1,6 +1,6 @@
 .product {
     width: 300px;
-    height: 500px;
+    height: 520px;
     border: 1px solid #95A0A7;
     border-radius: 8px;
     position: relative;
@@ -22,7 +22,6 @@
     font-size: 21px;
     line-height: 25px;
     letter-spacing: 0.0015em;
-    color: #0E161A;
 }
 
 .product-info {
@@ -41,6 +40,7 @@
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
+    color: black;
 }
 
 .btn-cart:hover{
