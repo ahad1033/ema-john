@@ -16,10 +16,7 @@ const Shop = () => {
         .then(data => setProducts(data))
     }, []);
 
-    useEffect( () => {
-        const storedCart = getShoppingCart();
-        console.log(storedCart)
-    }, [])
+    
 
     const handelAddToCart = (product) => {
         // cart.push(product);
